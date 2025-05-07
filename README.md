@@ -41,8 +41,13 @@ Use the GUI buttons:
 
 "Exit" to close the app.
 
-📝 Attendance Format
+## 📝 Attendance Format
 Attendance is stored in attendance.csv with the format:
 
 Name,Time,Date
 Duplicate entries for the same person on the same day are prevented.
+
+## License
+
+This project is not licensed. All rights reserved.
+
