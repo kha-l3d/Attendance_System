@@ -50,4 +50,3 @@ Duplicate entries for the same person on the same day are prevented.
 ## License
 
 This project is not licensed. All rights reserved.
-
